@@ -1,4 +1,9 @@
 td, th {
 	border: 1px solid;
   }
-  
+
+h1 {
+  font-family: 'Trebuchet MS', 'Lucida Sans', Arial, sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
