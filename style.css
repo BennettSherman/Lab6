@@ -3,7 +3,9 @@ td, th {
   }
 
 h1 {
+  font-size: large;
   font-family: 'Trebuchet MS', 'Lucida Sans', Arial, sans-serif;
   font-weight: bold;
   text-align: center;
+  color: cornflowerblue;
 }
