@@ -2,3 +2,10 @@ td, th {
 	border: 1px solid;
   }
   
+h1 {
+  font-size: large;
+  font-family: 'Trebuchet MS', 'Lucida Sans', Arial, sans-serif;
+  color: cornflowerblue;
+  font-weight: bold;
+  text-align: center;
+}
