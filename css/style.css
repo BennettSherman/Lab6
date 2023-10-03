@@ -1,6 +1,9 @@
 td, th {
 	border: 3px solid;
   border-color: #38598b;
+  color: #38598b;
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans', Arial, sans-serif;
   }
 
 table {
