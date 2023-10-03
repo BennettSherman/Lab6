@@ -6,6 +6,10 @@ td, th {
   font-family: 'Trebuchet MS', 'Lucida Sans', Arial, sans-serif;
   }
 
+div {
+  margin: 0px;
+}
+
 table {
   border: 5px solid;
   border-color: #38598b;
