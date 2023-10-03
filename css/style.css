@@ -1,9 +1,14 @@
 td, th {
-	border: 5px solid;
+	border: 1px solid;
+  border-color: #38598b;
+  }
+
+table {
+  border: 5px solid;
   border-color: #38598b;
   margin: auto;
   background-color :#e7eaf6;
-  }
+}
   
 h1 {
   font-size: 64px;
@@ -14,7 +19,7 @@ h1 {
   border-color: #38598b;
   font-weight: bold;
   margin: auto;
-  padding: 40px;
+  padding: 30px 40px; 
   width: 7in;
 }
 
