@@ -6,12 +6,8 @@ td, th {
   font-family: 'Trebuchet MS', 'Lucida Sans', Arial, sans-serif;
   }
 
-tr:nth-child(1) {
+.col1 {
   font-weight: bold;
-}
-
-div {
-  margin: 0px;
 }
 
 table {
