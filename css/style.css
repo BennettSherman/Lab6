@@ -1,18 +1,20 @@
 td, th {
 	border: 1px solid;
+  margin: auto;
+  background-color :#e7eaf6;
   }
   
 h1 {
   font-size: 64px;
   font-family: 'Trebuchet MS', 'Lucida Sans', Arial, sans-serif;
-  color: cornflowerblue;
-  background-color: lightgray;
+  color: #38598b; ;
+  background-color: #e7eaf6;
   font-weight: bold;
   text-align: center;
   padding: 40px;
+  width: 6in;
 }
 
 html {
-  background-image radial-gradient(purple, magenta, violet);
-  background-size: cover;
+  background-color: #a2a8d3;
 }
