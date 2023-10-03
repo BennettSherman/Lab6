@@ -1,5 +1,6 @@
 td, th {
-	border: 1px solid;
+	border: 5px solid;
+  border-color: #38598b;
   margin: auto;
   background-color :#e7eaf6;
   }
@@ -7,12 +8,14 @@ td, th {
 h1 {
   font-size: 64px;
   font-family: 'Trebuchet MS', 'Lucida Sans', Arial, sans-serif;
-  color: #38598b; ;
+  color: #38598b; 
   background-color: #e7eaf6;
+  border: 5px solid;
+  border-color: #38598b;
   font-weight: bold;
-  text-align: center;
+  margin: auto;
   padding: 40px;
-  width: 6in;
+  width: 7in;
 }
 
 html {
