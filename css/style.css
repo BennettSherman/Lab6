@@ -10,7 +10,7 @@ table {
   background-color :#e7eaf6;
   margin-top: 50px;
   width: 80%;
-  height: 700px;
+  height: 550px;
 }
   
 h1 {
@@ -22,6 +22,7 @@ h1 {
   border-color: #38598b;
   font-weight: bold;
   margin: auto;
+  margin-top: 50px;
   padding: 30px 40px; 
   width: 7in;
 }
